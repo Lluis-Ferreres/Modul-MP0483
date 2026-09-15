@@ -13,3 +13,8 @@
 Un programador doncs, es centrarà en pensar com aquesta màquina ha de realitzar una determinada tasca on se li faciliten uns paràmetres (valors, informació de la que es disposa) per resoldre un problema i obtenir una solució vàlida (allò que interessa conèixer).
 
 Des de l'equip més senzill (microcontroladors) fins la I.A. més avançada (milions de nuclis) el funcionament és el mateix: mitjançant l'organització correcta de pas de corrent elèctric fer que el maquinari pugui funcionar sense la necessitat de la nostra presència. Utilitzant aquest programari podrem començar a desenvolupar amb una base més sòlida per avançar en la nostra formació com a programadors.
+
+**Què és simuproc**  
+[Aquí trobareu informació sobre Simuproc](https://sites.google.com/site/simuproc/qu%C3%A9-es-simuproc?authuser=0 "Web arxivada Simuproc")
+
+[Funcionament de Simuproc](https://sites.google.com/site/simuproc/c%C3%B3mo-funciona?authuser=0 "Com funciona")
