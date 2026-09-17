@@ -11,8 +11,8 @@ El procés que utilitza el simulador que presentem, i la major part de CPUs del 
 
 >1. Cicle d'obtenció d'informació per processar o cicle de Fetch: consisteix en obtenir dades per realitzar càlculs. En el cas de Simuproc aquest cicle es compon del següent:
 >>a. Llegeix un registre anomenat **PC** (Comptador de Programa o **P**rogram **C**ounter)  
->>b. Connecta amb l'adreça de memòria que indica el registre PC  
->>c. Carrega el contingut de la memòria en un registre anomenat IR (Registre d'Instrucció o **I**nstruction **R**egister)  
+>>b. Connecta amb l'adreça de memòria que indica el registre PC (accedeix i desa l'adreça que indica PC al registre MAR). MAR: **M**emory **A**ddress **R**egister o Registre d'adreces de memòria  
+>>c. LLegeix el contingut de la memòria i ho carrega al registre MDR (**M**emory **D**ata **R**egister o Registre de Dades de Memòria). El contingut de la memòria que ara és a MDR passa al registre anomenat IR (Registre d'Instrucció o **I**nstruction **R**egister) que s'encarregarà de descodificar el que ha de processar la CPU  
 >>d. Incrementa el PC  
 >2. Cicle d'execució: la CPU realitza la funció que té programada amb els conjunts de'instruccions definits. Amb Simuproc serà:
 >>a. Si ha de tornar a consultar la memòria per necessitar informació la CPU tornarà a memòria per obtenir dades  
