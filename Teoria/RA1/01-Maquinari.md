@@ -17,4 +17,4 @@ Des de l'equip més senzill (microcontroladors) fins la I.A. més avançada (mil
 **Què és simuproc**  
 [Aquí trobareu informació sobre Simuproc](https://sites.google.com/site/simuproc/qu%C3%A9-es-simuproc?authuser=0 "Web arxivada Simuproc")
 
-[Funcionament de Simuproc](https://sites.google.com/site/simuproc/c%C3%B3mo-funciona?authuser=0 "Com funciona")
+[Funcionament de Simuproc](https://github.com/Lluis-Ferreres/Modul-MP0483/blob/main/Teoria/RA1/02-Simuproc.md "Com funciona")
